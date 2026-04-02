@@ -58,6 +58,7 @@
 ### ☁️ DevOps & Cloud Consulting
 We help organizations **fix, scale, and secure** their production infrastructure at any stage of their cloud-native journey.
 
+<div align="center">
 <table width="100%">
   <tr>
     <td width="33%">
@@ -88,6 +89,7 @@ We help organizations **fix, scale, and secure** their production infrastructure
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   📩 <b>Need help?</b> <a href="https://www.codingprotocols.com/contact">Let’s talk</a>
@@ -116,5 +118,5 @@ We are an **Open Core** organization building in public. We value precision and 
 <br />
 
 <div align="center">
-  <sub><i>Built with precision. Operated with stability. © 2025 Coding Protocols.</i></sub>
+  <sub><i>Built with precision. Operated with stability. © 2026 Coding Protocols.</i></sub>
 </div>
