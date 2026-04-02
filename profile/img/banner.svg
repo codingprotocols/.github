@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 180" role="img" aria-label="Coding Protocols">
+  <title>Coding Protocols — Social Banner</title>
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&amp;display=swap');
+    </style>
+  </defs>
+
+  <svg x="12" y="25" width="130" height="130" viewBox="0 0 100 100" overflow="visible">
+    <polygon points="90,50 70,86 30,86 10,50 30,14 70,14" fill="#1A73E8" />
+    <path d="M 57,40 A 17,17 0 1,0 57,60" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+    <line x1="62" y1="33" x2="62" y2="67" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 62,33 A 10.5,10.5 0 0,1 62,54" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  </svg>
+
+  <line x1="154" y1="36" x2="154" y2="144" stroke="#E8EAED" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="170" y="78" font-family="'Inter', sans-serif" font-size="36" font-weight="500" fill="#FFFFFF" letter-spacing="4">CODING</text>
+  <text x="170" y="122" font-family="'Inter', sans-serif" font-size="38" font-weight="800" fill="#FFFFFF" letter-spacing="4">PROTOCOLS</text>
+  <text x="171" y="146" font-family="'Inter', sans-serif" font-size="10.5" font-weight="700" fill="#1A73E8" letter-spacing="5">DEVOPS &amp; CLOUD CONSULTING</text>
+</svg>
